@@ -1,0 +1,25 @@
+Polityka Prywatności dla Aplikacji Pogoda+
+
+Data ostatniej aktualizacji: 11.01.2024
+
+Dziękujemy za korzystanie z naszej aplikacji. Niniejsza polityka prywatności opisuje, jakie informacje zbieramy i w jaki sposób są one używane.
+
+Zbierane Informacje
+Aplikacja przekazuje dane lokalizacyjne Twojego urządzenia dostawcy usług pogodowych, aby zapewnić Ci dokładne informacje pogodowe. Aplikacja nie przechowuje ani nie dostępuje do tych danych.
+
+Użycie Informacji
+Zebrane informacje lokalizacyjne są używane wyłącznie w celu uzyskania aktualnych prognoz pogodowych od dostawcy usług pogodowych. Nie udostępniamy tych danych osobom trzecim ani nie używamy ich w sposób sprzeczny z zasadami prywatności.
+
+Bezpieczeństwo
+Podjęliśmy odpowiednie środki bezpieczeństwa, aby chronić informacje przekazywane dostawcy usług pogodowych przed nieautoryzowanym dostępem lub ujawnieniem.
+
+Udostępnienie informacji
+Nie udostępniamy zebranych informacji osobom trzecim, chyba że jest to wymagane przez prawo lub w przypadku współpracy z dostawcami usług niezbędnymi do uzyskania prognoz pogodowych.
+
+Zmiany w Polityce Prywatności
+Zastrzegamy sobie prawo do aktualizacji niniejszej polityki prywatności w razie konieczności. Każda aktualizacja zostanie opublikowana w naszej aplikacji, a data ostatniej aktualizacji zostanie zaktualizowana.
+Kontakt
+
+Jeżeli masz pytania dotyczące tej polityki prywatności, skontaktuj się z nami pod adresem hub.kow.dev@gmail.com.
+
+Dziękujemy za korzystanie z naszej aplikacji!
